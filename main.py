@@ -1,6 +1,6 @@
-def main():
-    from random import randint
+from random import randint
 
+def main():
     min = int(input("What is the lowest number on your dice?  "))
 
     max = int(input("What is the highest number on your dice?  "))
